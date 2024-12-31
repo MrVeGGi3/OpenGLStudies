@@ -1,0 +1,2 @@
+# OpenGLStudies
+ Learning OpenGL. C++ 
